@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667097614554",
+    "project_id": "animaldata-ea4bd",
+    "storage_bucket": "animaldata-ea4bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667097614554:android:5d6ad76082d48abf25bde3",
+        "android_client_info": {
+          "package_name": "com.example.firebaselesson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667097614554-2st4lhbj0q9n7s4jouva8teti49imu12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkGiIKD62bxQ7KyGIpahfwqcw4_nfHqQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667097614554-2st4lhbj0q9n7s4jouva8teti49imu12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
