@@ -2,6 +2,7 @@ package com.example.firebaselesson.uitel
 
 import android.content.Context
 import android.widget.ImageView
+import androidx.annotation.NonNull
 import androidx.databinding.BindingAdapter
 import androidx.swiperefreshlayout.widget.CircularProgressDrawable
 import com.bumptech.glide.Glide
@@ -30,7 +31,7 @@ fun ImageView.loadImage(uri: String?, progressDrawable: CircularProgressDrawable
 
 }
 
-@BindingAdapter
+@NonNull
 fun loadImage(view: ImageView, url: String?) {
 view.loadImage(url, getProgressDrawable(view.context))
 }
